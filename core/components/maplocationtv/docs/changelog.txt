@@ -1,0 +1,5 @@
+Changelog file for Map Location TV.
+
+Map Location TV 0.1-beta
+====================================
+- Initial release
